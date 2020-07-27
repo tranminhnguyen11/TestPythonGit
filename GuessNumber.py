@@ -12,3 +12,4 @@ else :
 	print("Right answer")
 
 print(x)		
+print('AI la chi')
